@@ -3,13 +3,13 @@
 </h1>
 
 <h1 align="center">
-<img width="800" src="assets/img/presentation1.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation2.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation3.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation4.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation5.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation6.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation7.png" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation1.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation2.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation3.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation4.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation5.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation6.jpg" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation7.jpg" alt="My cool logo"/>
   </h1>
 
 <h3 align="center">
