@@ -13,7 +13,7 @@
   </h1>
 
 <h3 align="center">
-    <a href="https://urna-eletronicab7.netlify.app/">Access demo page</a>
+    <a href="https://urna-eletronicab7.netlify.app/" target="_blank">Access demo page</a>
 <h3 >
 
 # Index
