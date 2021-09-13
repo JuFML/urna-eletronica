@@ -24,7 +24,7 @@
 
 ## 🔖&nbsp; About
 
-The Urna Eletrônica is a project created in a B7W Course to to simulate the voting system via electronic ballot box. The system records the vote and shows the name and photo of the chosen candidates. It is a project created in order to put into practice all the content studied during the intire JS course.
+The Urna Eletrônica is a project created in a B7W Course to simulate the voting system via electronic ballot box. The system records the vote and shows the name and photo of the chosen candidates. It is a project created in order to put into practice all the content studied during the intire JS course.
 
 
 ---
